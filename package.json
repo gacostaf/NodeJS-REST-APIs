@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-rest-apis",
+  "version": "1.0.0",
+  "description": "First NodeJs REST API application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gerry Acosta",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
